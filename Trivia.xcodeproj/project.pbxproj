@@ -32,8 +32,8 @@
 		56EF0F0C2FA24BA800AD814D = {
 			isa = PBXGroup;
 			children = (
-				56EF0F172FA24BA800AD814D /* Trivia */,
 				56EF0F162FA24BA800AD814D /* Products */,
+				56EF0F172FA24BA800AD814D /* Trivia */,
 			);
 			sourceTree = "<group>";
 		};
