@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		56F0BA882FAA336700270E0E /* TriviaManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F0BA872FAA336700270E0E /* TriviaManager.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		56EF0F152FA24BA800AD814D /* Trivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trivia.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		56F0BA872FAA336700270E0E /* TriviaManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				56EF0F162FA24BA800AD814D /* Products */,
+				56F0BA872FAA336700270E0E /* TriviaManager.swift */,
 				56EF0F172FA24BA800AD814D /* Trivia */,
 			);
 			sourceTree = "<group>";
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56F0BA882FAA336700270E0E /* TriviaManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
