@@ -14,7 +14,7 @@ struct ContentView: View {
         NavigationView {
             VStack(spacing: 40) {
                 VStack(spacing: 20) {
-                    Text("Trivia Game")
+                    Text("Trivia Game")	
                         .lilacTitle()
                     
                     Text("Are you ready to test out your trivia skills?")
